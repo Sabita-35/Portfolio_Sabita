@@ -13,12 +13,12 @@ export default function Projects() {
           <h3>Project One</h3>
           <p>A fun weather app built with vanilla JS and OpenWeather API.</p>
           <div className="project-links">
-            <a href="https://github.com/Sabita-35/Weather_App" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://sabita-35.github.io/Weather_App/" target="_blank" rel="noreferrer">Live Demo</a>
           </div>
         </div>
 
-        <div className="project-card">
+        <div className="project-card">https://github.com/Sabita-35/Weather_App
          
           <h3>Project Two</h3>
           <p>A simple To-Do app using HTML,CSS,JavaScript and local storage.</p>
@@ -36,6 +36,15 @@ export default function Projects() {
           <div className="project-links">
             <a href="https://github.com/Sabita-35/Age_Calculator" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://sabita-35.github.io/Age_Calculator/" target="_blank" rel="noreferrer">Live Demo</a>
+          </div>
+        </div>
+         <div className="project-card">
+    
+          <h3>Project Four</h3>
+          <p>Currency converter app using  HTML,CSS,JavaScript.</p>
+          <div className="project-links">
+            <a href="https://github.com/Sabita-35/Currency_Converter" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://sabita-35.github.io/Currency_Converterr/" target="_blank" rel="noreferrer">Live Demo</a>
           </div>
         </div>
       
