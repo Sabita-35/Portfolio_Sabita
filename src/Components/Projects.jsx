@@ -44,7 +44,7 @@ export default function Projects() {
           <p>Currency converter app using  HTML,CSS,JavaScript.</p>
           <div className="project-links">
             <a href="https://github.com/Sabita-35/Currency_Converter" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://sabita-35.github.io/Currency_Converterr/" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://sabita-35.github.io/Currency_Converter/" target="_blank" rel="noreferrer">Live Demo</a>
           </div>
         </div>
       

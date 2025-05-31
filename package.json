@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sabita-35.github.io/PortFolio",
+  "homepage": "https://sabita-35.github.io/PortFolio_Sabita",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
